@@ -1,4 +1,4 @@
-{
+﻿{
   "DefaultOCREngine": "UiPath.Core.Activities.GoogleOCR, UiPath.UiAutomation.Activities",
   "UiPath.UiAutomation.Activities.AbbyyCloudOCR.ApplicationID": "",
   "UiPath.UiAutomation.Activities.AbbyyCloudOCR.Password": "",
